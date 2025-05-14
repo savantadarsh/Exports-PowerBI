@@ -19,8 +19,11 @@ This Power BI dashboard provides a comprehensive analysis of Infinity Exports' f
 
    ![OverView](assets/Country.gif)
 
+2. Use the **Month Filter** to track monthly revenue and profit trends and identify seasonal patterns.
 
-3. Explore **Product Category** filters to analyse demand and pricing trends.
+   ![OverView](assets/Month.gif)
+
+4. Explore **Product Category** filters to analyse demand and pricing trends.
    
 5. Leverage **Customer View** to assess top-performing clients for retention and upsell strategies.
 6. Analyse the **Weekly Sales Chart** for planning inventory and campaign timing.

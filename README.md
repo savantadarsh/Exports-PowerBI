@@ -1,6 +1,6 @@
 ### Infinity Exports Performance Summary 2024 – An Exploratory Guide
 
-**1. Introduction**
+## **1. Introduction**
 This Power BI dashboard provides a comprehensive analysis of Infinity Exports' financial performance in 2024. Interactive visuals allow stakeholders to explore revenue trends, customer performance, product strengths, delivery strategies, and business categories. It offers a strategic overview of sales activity and profitability for informed decision-making.
 
 **Why This Dashboard is Useful**
@@ -19,7 +19,7 @@ This Power BI dashboard provides a comprehensive analysis of Infinity Exports' f
 5. Review **Delivery Mode Distribution** to support logistics cost control and sustainability.
 6. Use **Business Category Segmentation** to tailor pricing and volume strategies.
 
-**2. Dataset and Key Measures Used**
+## **2. Dataset and Key Measures Used**
 The dashboard integrates transactional, customer, and logistics data to track performance and drive insights.
 
 **Datasets Used**
@@ -38,9 +38,9 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - **Total Revenue**: Calculates the gross revenue from all product sales
 - **Week Number**: Extracts the week number from each transaction date for time-series analysis
 
-**3. Key Insights and Business Implications**
+## **3. Key Insights and Business Implications**
 
-**A. Sales & Profit Trends Across 2024**
+# **A. Sales & Profit Trends Across 2024**
 
 **Findings**:
 - Total Revenue: £1.04B
@@ -56,7 +56,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - Weekly chart enables visibility into sales cycles and anomalies.
 - Stakeholders can correlate the quantity sold and revenue to optimise the supply-demand balance.
 
-**B. Product Performance: Strengths and Weaknesses**
+# **B. Product Performance: Strengths and Weaknesses**
 
 **Findings**:
 - Top categories by revenue: Jacket (£225.4M), Cardigan (£155.2M), Hoodie (£143.3M)
@@ -71,7 +71,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - Dual-bar revenue chart and tooltip metrics (% revenue share, quantity sold) allow quick comparison.
 - Useful for pricing reviews and SKU rationalisation.
 
-**C. Regional Performance and Major Clients**
+# **C. Regional Performance and Major Clients**
 
 **Findings**:
 - Leading countries: UK (23.9%), Spain (9.4%), France (6.2%)
@@ -86,7 +86,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - Customer and country views highlight key accounts and regions
 - Filters allow drilling into client behaviour and regional seasonality
 
-**D. Sales Channel & Logistics Impact**
+# **D. Sales Channel & Logistics Impact**
 
 **Findings**:
 - Revenue by business category: Bulk (41.6%), Others (36.5%), Retail (21.9%).
@@ -100,7 +100,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - The business category pie chart clarifies where profit optimisation strategies should focus.
 - Delivery Mode visual guides shipping and sustainability decisions.
 
-**E. Sustainability Initiative: Delivery Mode Strategy**
+# **E. Sustainability Initiative: Delivery Mode Strategy**
 
 **Findings**:
 - ~25% of revenue tied to air shipments; most expensive and highest carbon impact
@@ -114,7 +114,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - The Delivery Mode chart enables simulation of the potential impact of shifting the logistics strategy
 - Combined with Country/Product filters, users can identify which markets rely heavily on fast delivery
 
-**4. Final Business Recommendations**
+## **4. Final Business Recommendations**
 
 1. **Focus on Premium Products**: Expand high-performing categories like Jackets and Hoodies.
 2. **Reduce Logistics Costs**: Gradually shift air shipment volumes to sea, where feasible
@@ -122,12 +122,12 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 4. **Strengthen Mid-Tier Clients**: Offer loyalty incentives to grow £24M–£25M tier accounts
 5. **Phase Out Underperformers**: Reassess Sweatshirt and T-shirt strategies
 
-**5. Next Steps**
+## **5. Next Steps**
 - **Predictive Sales Forecasting**: Use Power BI trendline data to estimate 2025 monthly volumes.
 - **Customer Segmentation Deep-Dive**: Use filters to cluster by revenue, retention, and geography
 - **Operational Refinement**: Evaluate warehouse/delivery schedules based on weekly demand swings
 
-**6. Conclusion**
+## **6. Conclusion**
 This Power BI dashboard provides critical insight into Infinity Exports’ performance in 2024. It empowers leaders to make data-backed decisions across product strategy, logistics, and customer engagement. With clear visibility into revenue trends and operational levers, the organisation is well-positioned to refine execution and accelerate export growth into 2025.
 
 

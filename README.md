@@ -1,6 +1,6 @@
 # Infinity Exports Performance Summary 2024 - An Exploratory Guide
 
-![OverView](assets/Screenshot 2025-05-14 012450.png)
+![OverView](assets/Overview.png)
 
 
 

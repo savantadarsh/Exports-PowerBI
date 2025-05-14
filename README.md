@@ -2,8 +2,6 @@
 
 ![OverView](assets/Overview.png)
 
-![OverView](assets/Country.gif)
-
 ## **1. Introduction**
 This Power BI dashboard provides a comprehensive analysis of Infinity Exports' financial performance in 2024. Interactive visuals allow stakeholders to explore revenue trends, customer performance, product strengths, delivery strategies, and business categories. It offers a strategic overview of sales activity and profitability for informed decision-making.
 
@@ -17,11 +15,13 @@ This Power BI dashboard provides a comprehensive analysis of Infinity Exports' f
 
 **How to Use This Dashboard for Decision-Making**
 1. Use the **Country Filter** to evaluate market performance across geographies.
-2. Explore **Product Category** filters to analyse demand and pricing trends.
-3. Leverage **Customer View** to assess top-performing clients for retention and upsell strategies.
-4. Analyse the **Weekly Sales Chart** for planning inventory and campaign timing.
-5. Review **Delivery Mode Distribution** to support logistics cost control and sustainability.
-6. Use **Business Category Segmentation** to tailor pricing and volume strategies.
+   ![OverView](assets/Country.gif)
+3. Explore **Product Category** filters to analyse demand and pricing trends.
+   
+5. Leverage **Customer View** to assess top-performing clients for retention and upsell strategies.
+6. Analyse the **Weekly Sales Chart** for planning inventory and campaign timing.
+7. Review **Delivery Mode Distribution** to support logistics cost control and sustainability.
+8. Use **Business Category Segmentation** to tailor pricing and volume strategies.
 
 ## **2. Dataset and Key Measures Used**
 The dashboard integrates transactional, customer, and logistics data to track performance and drive insights.

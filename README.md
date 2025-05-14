@@ -1,4 +1,4 @@
-# Infinity Exports Performance Summary 2024
+# Infinity Exports Performance Summary 2024 - An Exploratory Guide
 
 ## **1. Introduction**
 This Power BI dashboard provides a comprehensive analysis of Infinity Exports' financial performance in 2024. Interactive visuals allow stakeholders to explore revenue trends, customer performance, product strengths, delivery strategies, and business categories. It offers a strategic overview of sales activity and profitability for informed decision-making.

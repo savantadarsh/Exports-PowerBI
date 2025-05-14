@@ -1,4 +1,4 @@
-### Infinity Exports Performance Summary 2024 – An Exploratory Guide
+# Infinity Exports Performance Summary 2024 – An Exploratory Guide
 
 ## **1. Introduction**
 This Power BI dashboard provides a comprehensive analysis of Infinity Exports' financial performance in 2024. Interactive visuals allow stakeholders to explore revenue trends, customer performance, product strengths, delivery strategies, and business categories. It offers a strategic overview of sales activity and profitability for informed decision-making.
@@ -40,7 +40,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 
 ## **3. Key Insights and Business Implications**
 
-# **A. Sales & Profit Trends Across 2024**
+### **A. Sales & Profit Trends Across 2024**
 
 **Findings**:
 - Total Revenue: £1.04B
@@ -56,7 +56,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - Weekly chart enables visibility into sales cycles and anomalies.
 - Stakeholders can correlate the quantity sold and revenue to optimise the supply-demand balance.
 
-# **B. Product Performance: Strengths and Weaknesses**
+### **B. Product Performance: Strengths and Weaknesses**
 
 **Findings**:
 - Top categories by revenue: Jacket (£225.4M), Cardigan (£155.2M), Hoodie (£143.3M)
@@ -71,7 +71,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - Dual-bar revenue chart and tooltip metrics (% revenue share, quantity sold) allow quick comparison.
 - Useful for pricing reviews and SKU rationalisation.
 
-# **C. Regional Performance and Major Clients**
+### **C. Regional Performance and Major Clients**
 
 **Findings**:
 - Leading countries: UK (23.9%), Spain (9.4%), France (6.2%)
@@ -86,7 +86,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - Customer and country views highlight key accounts and regions
 - Filters allow drilling into client behaviour and regional seasonality
 
-# **D. Sales Channel & Logistics Impact**
+### **D. Sales Channel & Logistics Impact**
 
 **Findings**:
 - Revenue by business category: Bulk (41.6%), Others (36.5%), Retail (21.9%).
@@ -100,7 +100,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - The business category pie chart clarifies where profit optimisation strategies should focus.
 - Delivery Mode visual guides shipping and sustainability decisions.
 
-# **E. Sustainability Initiative: Delivery Mode Strategy**
+### **E. Sustainability Initiative: Delivery Mode Strategy**
 
 **Findings**:
 - ~25% of revenue tied to air shipments; most expensive and highest carbon impact

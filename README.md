@@ -34,12 +34,12 @@ This Power BI dashboard provides a comprehensive analysis of Infinity Exports' f
 The dashboard integrates transactional, customer, and logistics data to track performance and drive insights.
 
 **Datasets Used**
-- **Transactions**: Order-level data including quantity, revenue, and product price
-- **Products**: Cost, category, and unit-level pricing details
-- **Customers**: Revenue by client, business category (Retail, Bulk, Others)
-- **Logistics**: Shipment modes (Air, Land, Sea)
+- **Transactions**: Contains sales data, revenue, profit, and transaction details
+- **Products**: Includes product pricing, costs, and categories
+- **Customers**: Segments customers by name and business type (Retail, Bulk, Others)
+- **Logistics**: Tracks shipment methods (Air, Land, Sea)
 
-**Key Measures in Power BI**
+**Key Measures Used in Power BI**
 - **Percenatage(%) of Total Revenue**: Determines each country’s share of total global revenue
 - **Quantity Percentage(%) of Product Category**: Calculates what portion of total units sold is attributed to each product category
 - **Revenue Percentage(%) of Product Category**: Measures each product category's contribution to total revenue
@@ -50,22 +50,26 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - **Week Number**: Extracts the week number from each transaction date for time-series analysis
 
 ## **3. Key Insights and Business Implications**
+This dashboard provides interactive and data-driven insights into Universal Export’s financial performance. By utilizing filters and dynamic visualizations, it allows stakeholders to explore revenue trends, track product performance, compare sales across regions, and evaluate the impact of logistics decisions.
+
+The key insights below highlight how users can extract business intelligence from the dashboard and how these findings can drive strategic decisions.
 
 ### **A. Sales & Profit Trends Across 2024**
 
 **Findings**:
-- Total Revenue: £1.04B
-- Total Units Sold: 62.23M
-- Profit Margin: 44.92%
-- Highest weekly revenue reached ~£22M; sharp dip to £3M and £0.16M toward year-end (potential data cutoff or operational gap).
+- **Total Revenue**: £1.04B
+- **Total Units Sold**: 62.23M
+- **Profit Margin**: 44.92%
+- Highest weekly revenue reached ~£22M; sharp dip to £3M and £0.16M toward year-end.
 
 **Business Implications**:
 - The year-end drop requires investigation — potentially a data lag, shipping constraints, or seasonal slowdown
 - Strong mid-year performance indicates ideal periods for campaigns and stocking
 
 **How the Dashboard Helps**:
-- Weekly chart enables visibility into sales cycles and anomalies.
-- Stakeholders can correlate the quantity sold and revenue to optimise the supply-demand balance.
+- The **Month Filter** allows users to analyse revenue and profit month by month, helping identify key seasonal patterns.
+- The **Revenue by Week Chart** provides a detailed breakdown of fluctuations, allowing users to compare performance on a granular level.
+- Users can combine filters (e.g., selecting a month + country) to explore regional differences in sales trends.
 
 ### **B. Product Performance: Strengths and Weaknesses**
 
@@ -79,14 +83,15 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - Underperformers may benefit from repositioning, design refresh, or targeted discounts.
 
 **How the Dashboard Helps**:
-- Dual-bar revenue chart and tooltip metrics (% revenue share, quantity sold) allow quick comparison.
-- Useful for pricing reviews and SKU rationalisation.
+- The **Revenue by Product Category Chart** clearly distinguishes top-performing and underperforming products.
+- By using the **Country Filter**, users can analyse how different product categories perform across regions.
+- Combining **Month + Product Category** filters helps assess seasonality in product sales.
 
 ### **C. Regional Performance and Major Clients**
 
 **Findings**:
 - Leading countries: UK (23.9%), Spain (9.4%), France (6.2%)
-- Top clients: Panowikk (£26.9M), TOL Uniform, General Clothing, etc.
+- Top clients: Panowikk (£26.9M), TOL Uniform, General Clothing
 - Over 25 clients contribute between £24M–£27M each
 
 **Business Implications**:
@@ -94,8 +99,9 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - Client contributions are relatively flat at the top — a strong mid-tier client base should be cultivated further.
 
 **How the Dashboard Helps**:
-- Customer and country views highlight key accounts and regions
-- Filters allow drilling into client behaviour and regional seasonality
+- The **Revenue by Customer Chart** helps identify high-value clients.
+- The **Country Filter** allows users to compare revenue distribution by region.
+- The combination of **Month + Country** filters provides insights into seasonal variations in regional sales.
 
 ### **D. Sales Channel & Logistics Impact**
 
@@ -115,7 +121,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 
 **Findings**:
 - ~25% of revenue tied to air shipments; most expensive and highest carbon impact
-- Combined air/land/sea mode is largest contributor (35%)
+- Combined air/land/sea mode is the largest contributor (35%)
 
 **Business Implications**:
 - Reducing air dependency can lower costs and support green initiatives

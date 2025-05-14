@@ -14,8 +14,12 @@ This Power BI dashboard provides a comprehensive analysis of Infinity Exports' f
 - **Delivery Mode Impact**: Delivery Mode chart (Air, Land, Sea) shows revenue distribution across logistics strategies.
 
 **How to Use This Dashboard for Decision-Making**
+
 1. Use the **Country Filter** to evaluate market performance across geographies.
+
    ![OverView](assets/Country.gif)
+
+
 3. Explore **Product Category** filters to analyse demand and pricing trends.
    
 5. Leverage **Customer View** to assess top-performing clients for retention and upsell strategies.

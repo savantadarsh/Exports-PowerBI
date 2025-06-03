@@ -29,6 +29,7 @@ This Power BI dashboard provides a comprehensive analysis of Infinity Exports' f
 6. Analyse the **Weekly Sales Chart** for planning inventory and campaign timing.
 7. Review **Delivery Mode Distribution** to support logistics cost control and sustainability.
 8. Use **Business Category Segmentation** to tailor pricing and volume strategies.
+9. Hover over charts to get additional information from tooltips. 
 
 ## **2. Dataset and Key Measures Used**
 The dashboard integrates transactional, customer, and logistics data to track performance and drive insights.
@@ -71,6 +72,17 @@ The key insights below highlight how users can extract business intelligence fro
 - The **Revenue by Week Chart** provides a detailed breakdown of fluctuations, allowing users to compare performance on a granular level.
 - Users can combine filters (e.g., selecting a month + country) to explore regional differences in sales trends.
 
+ToolTip
+**Country-wise % Revenue Contribution**
+💰 **Revenue Concentration Analysis**: Helps identify over-reliance on specific countries, allowing diversification strategies to reduce financial risk and improve revenue stability.
+
+📈 **Market Investment Prioritisation**: Guides decisions on where to allocate marketing or expansion budgets to maximise returns from high-performing or high-potential regions.
+UK Revenue Share: 23.92% of total revenue in 2024
+➤ With total revenue at £1,040M, the UK contributes approximately £248.8M in revenue.
+
+Implication for Investment: Being the top market, the UK justifies further resource investment (e.g., campaigns or infrastructure) to reinforce and grow revenue.
+
+
 ### **B. Product Performance: Strengths and Weaknesses**
 
 **Findings**:
@@ -86,6 +98,34 @@ The key insights below highlight how users can extract business intelligence fro
 - The **Revenue by Product Category Chart** clearly distinguishes top-performing and underperforming products.
 - By using the **Country Filter**, users can analyse how different product categories perform across regions.
 - Combining **Month + Product Category** filters helps assess seasonality in product sales.
+
+ToolTip
+**Product-Level Financial Summary**
+📊 **Profitability Assessment**: By showing product-wise profit and cost, it helps finance teams evaluate which products are most financially viable or eroding margins.
+
+⚖️ **Pricing and Cost Optimization**: Enables informed decisions around pricing strategy or cost control initiatives to improve profit margins per product.
+Product Profit in May (UK): £63.70M
+
+Product Cost in May (UK): £79.62M
+
+Profit Margin: 44.44%
+➤ These numbers suggest that despite high operational costs, pricing is optimised for healthy margins — ideal for further margin scalability through volume.
+
+Product Revenue vs Quantity Table
+💡 Margin vs Volume Trade-Off: Shows whether high-volume products are generating enough revenue to justify their scale, enabling correction of financially inefficient product lines.
+
+📦 Revenue Contribution Clarity: This section highlights which products are driving disproportionate revenue, supporting the reallocation of resources to high-yield items.
+Top Contributing Products (UK – May):
+
+Jacket: 9.45% quantity, 22.51% revenue
+
+Cardigan: 7.78% quantity, 13.90% revenue
+
+Polo Shirt: 7.50% quantity, 9.83% revenue
+
+Insight: High-revenue-to-quantity ratios for Jackets and Cardigans suggest premium positioning with strong financial return per unit sold.
+
+
 
 ### **C. Regional Performance and Major Clients**
 
@@ -103,6 +143,20 @@ The key insights below highlight how users can extract business intelligence fro
 - The **Country Filter** allows users to compare revenue distribution by region.
 - The combination of **Month + Country** filters provides insights into seasonal variations in regional sales.
 
+Salesperson Profile
+🎯 Attribution of Sales Revenue: Helps attribute revenue outcomes to specific individuals or teams, which supports performance-based incentives and territory ROI analysis.
+
+🧭 Territory Profitability Mapping: Enables finance and sales leaders to track which territories or reps contribute most to financial goals, guiding hiring or training investments.
+
+Salesperson Country: South Africa
+
+Gender/Nationality: Female, South African
+
+Implication:
+➤ Revenue from the UK in May is indirectly driven by international sales agents, supporting remote sales efficiency.
+➤ Performance attribution to this rep can aid in refining commission/incentive models and improving resource planning for the UK territory.
+
+
 ### **D. Sales Channel & Logistics Impact**
 
 **Findings**:
@@ -116,6 +170,24 @@ The key insights below highlight how users can extract business intelligence fro
 **How the Dashboard Helps**:
 - The business category pie chart clarifies where profit optimisation strategies should focus.
 - Delivery Mode visual guides shipping and sustainability decisions.
+
+ToolTip
+Revenue by Delivery Mode
+🚚 Cost-Efficiency Insights: Allows evaluation of how logistics methods align with revenue, identifying opportunities to shift toward more cost-effective delivery modes.
+
+🌍 Sustainability-Linked Profitability: Supports financial modeling of eco-friendly logistics shifts, ensuring cost savings do not compromise high-value delivery routes.
+Air, Land, Sea (mixed): 35%
+
+Air only: 30%
+
+Land: 25%
+
+Sea: 10%
+
+Insight:
+➤ 65% of revenue flows through air (alone or mixed), indicating high delivery costs tied to speed.
+➤ Financial opportunity lies in gradually shifting 10–15% to land/sea to optimize cost without compromising service.
+
 
 ### **E. Sustainability Initiative: Delivery Mode Strategy**
 

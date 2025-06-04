@@ -170,7 +170,7 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - Leverage high-performing international reps to further penetrate and expand in the UK market.
 - Nurture and reward multi-client management to build stronger, revenue-rich customer relationships.
 
-![OverView](assets/salesperson.gif)
+![OverView](assets/salespersons.gif)
 
 
 ### **D. Sales Channel & Logistics Impact**

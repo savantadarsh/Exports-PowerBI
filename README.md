@@ -80,6 +80,7 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 ℹ️**ToolTip: Country-wise % Revenue Contribution**
 
 💰 **Revenue Concentration Analysis**: Helps identify over-reliance on specific countries, allowing diversification strategies to reduce financial risk and improve revenue stability.
+
 📈 **Market Investment Prioritisation**: Guides decisions on where to allocate marketing or expansion budgets to maximise returns from high-performing or high-potential regions.
 
 **ToolTip Insights**
@@ -99,41 +100,41 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - Price points vary from £6 to £40 per unit
 
 **Business Implications**:
-- Strong jacket sales suggest a focus on premium outerwear; consider regional expansions or bundled winter collections.
-- Underperformers may benefit from repositioning, design refresh, or targeted discounts.
+- Sweatshirt and T-shirt sales underperformance may indicate pricing, branding, or market positioning issues. Strategies such as discounts, redesigns, or promotional bundles could improve demand.
+- Jacket, Cardigan, and Hoodie sales dominance suggests potential expansion opportunities, such as introducing premium, limited-edition, or region-specific variations.
 
 **How the Dashboard Helps**:
 - The **Revenue by Product Category Chart** clearly distinguishes top-performing and underperforming products.
 - By using the **Country Filter**, users can analyse how different product categories perform across regions.
 - Combining **Month + Product Category** filters helps assess seasonality in product sales.
 
-ToolTip
-**Product-Level Financial Summary**
-📊 **Profitability Assessment**: By showing product-wise profit and cost, it helps finance teams evaluate which products are most financially viable or eroding margins.
+ℹ️**ToolTip: Product-Level Financial Summary**
 
-⚖️ **Pricing and Cost Optimization**: Enables informed decisions around pricing strategy or cost control initiatives to improve profit margins per product.
-Product Profit in May (UK): £63.70M
+📊 **Profitability Assessment**: Showing product-wise profit and cost helps finance teams evaluate which products are most financially viable or eroding margins.
 
-Product Cost in May (UK): £79.62M
+⚖️ **Pricing and Cost Optimisation**: Enables informed decisions around pricing strategy or cost control initiatives to improve profit margins per product.
 
-Profit Margin: 44.44%
-➤ These numbers suggest that despite high operational costs, pricing is optimised for healthy margins — ideal for further margin scalability through volume.
+**ToolTip Insights**
+- Jackets and Hoodies contribute significantly to both top-line revenue and bottom-line profit. Jackets, despite lower volume, deliver exceptional returns due to premium pricing. Hoodies provide balanced volume and profitability.
+- T-shirts and Sweatshirts are low-margin, high-volume products. While they aid total unit sales, they do not contribute as efficiently to profitability.
+
+**Investment Suggestion**
+- Continue prioritising premium products like Jackets for margin maximisation, and Hoodies for volume-plus-profit stability. Ensure consistent availability and targeted marketing during peak demand
+- Use T-Shirts and Sweatshirts as entry-level or promotional products to boost volume and attract new customers, but do not rely on them for driving profits. Consider bundling them with higher-margin items.
 
 ![OverView](assets/fin_num.gif)
 
-Product Revenue vs Quantity Table
+ℹ️**ToolTip: Product Revenue vs Quantity Table**
+
 💡 Margin vs Volume Trade-Off: Shows whether high-volume products are generating enough revenue to justify their scale, enabling correction of financially inefficient product lines.
 
 📦 Revenue Contribution Clarity: This section highlights which products are driving disproportionate revenue, supporting the reallocation of resources to high-yield items.
-Top Contributing Products (UK – May):
 
-Jacket: 9.45% quantity, 22.51% revenue
+**ToolTip Insights**
 
-Cardigan: 7.78% quantity, 13.90% revenue
-
-Polo Shirt: 7.50% quantity, 9.83% revenue
-
-Insight: High-revenue-to-quantity ratios for Jackets and Cardigans suggest premium positioning with strong financial return per unit sold.
+- Jacket (£40) consistently leads in revenue, making it a high-value product worth sustained promotion.
+- T-Shirts (£6) and PoloShirts (£15) lead in quantity sold, indicating mass appeal and potential for bundle deals or upselling.
+- Hoodies maintain a stable presence in both volume and revenue, signalling a dependable mid-tier option.
 
 ![OverView](assets/detail_prdts.gif)
 
@@ -145,26 +146,29 @@ Insight: High-revenue-to-quantity ratios for Jackets and Cardigans suggest premi
 - Over 25 clients contribute between £24M–£27M each
 
 **Business Implications**:
-- Market concentration in the UK indicates a need to diversify regionally for risk balance.
-- Client contributions are relatively flat at the top — a strong mid-tier client base should be cultivated further.
+- The UK’s market dominance suggests a need to expand into emerging markets for long-term growth.
+- Heavy reliance on a few key customers may pose a risk; diversifying the client base could enhance stability.
+- Customer segmentation strategies, such as personalised offers or loyalty programs, could help maintain long-term client relationships.
 
 **How the Dashboard Helps**:
 - The **Revenue by Customer Chart** helps identify high-value clients.
 - The **Country Filter** allows users to compare revenue distribution by region.
 - The combination of **Month + Country** filters provides insights into seasonal variations in regional sales.
 
-Salesperson Profile
+ℹ️**ToolTip: Salesperson Profile**
+
 🎯 Attribution of Sales Revenue: Helps attribute revenue outcomes to specific individuals or teams, which supports performance-based incentives and territory ROI analysis.
 
 🧭 Territory Profitability Mapping: Enables finance and sales leaders to track which territories or reps contribute most to financial goals, guiding hiring or training investments.
 
-Salesperson Country: South Africa
 
-Gender/Nationality: Female, South African
+**ToolTip Insights**
+- International sales reps are successfully building relationships and closing high-value deals in the UK. This suggests that cultural or regional background is not a barrier to high-touch B2B apparel selling.
+- Salespeople with multiple UK client accounts generate higher cumulative revenue. This points to strong relationship management, possibly built on trust, retention, or deep industry knowledge.
 
-Implication:
-➤ Revenue from the UK in May is indirectly driven by international sales agents, supporting remote sales efficiency.
-➤ Performance attribution to this rep can aid in refining commission/incentive models and improving resource planning for the UK territory.
+**Implication:**
+- Leverage high-performing international reps to further penetrate and expand in the UK market.
+- Nurture and reward multi-client management to build stronger, revenue-rich customer relationships.
 
 ![OverView](assets/salesperson.gif)
 
@@ -176,29 +180,25 @@ Implication:
 - Delivery Mode split: Air, Land, Sea (35%), Land (30%), Air (25%), Sea (10%).
 
 **Business Implications**:
-- Heavy reliance on bulk buyers opens an opportunity for customised pricing and loyalty incentives.
-- High usage of air freight (25%) impacts margins; shifting more volume to sea could improve cost efficiency.
+- Bulk sales profitability may require pricing adjustments to increase revenue from high-volume customers.
+- Reducing air shipment reliance aligns with sustainability goals but requires monitoring for potential delivery delays or customer complaints.
+- Cost savings from logistics changes should be reinvested in optimising supply chain efficiency.
 
 **How the Dashboard Helps**:
-- The business category pie chart clarifies where profit optimisation strategies should focus.
-- Delivery Mode visual guides shipping and sustainability decisions.
+- _The business category pie chart clarifies where profit optimisation strategies should focus._
+- _Delivery Mode visual guides shipping and sustainability decisions._
 
-ToolTip
-Revenue by Delivery Mode
+ℹ️**ToolTip: Revenue by Delivery Mode**
+
 🚚 Cost-Efficiency Insights: Allows evaluation of how logistics methods align with revenue, identifying opportunities to shift toward more cost-effective delivery modes.
 
-🌍 Sustainability-Linked Profitability: Supports financial modeling of eco-friendly logistics shifts, ensuring cost savings do not compromise high-value delivery routes.
-Air, Land, Sea (mixed): 35%
+**ToolTip Insights**
+- Customers prefer flexible or fast shipping solutions, with multi-mode logistics being the most effective in driving revenue.
+- Retail partners are the most lucrative, followed closely by bulk buyers.
 
-Air only: 30%
-
-Land: 25%
-
-Sea: 10%
-
-Insight:
-➤ 65% of revenue flows through air (alone or mixed), indicating high delivery costs tied to speed.
-➤ Financial opportunity lies in gradually shifting 10–15% to land/sea to optimize cost without compromising service.
+**Investment Suggestion**
+- Prioritise flexible logistics infrastructure—particularly Air and hybrid models—to meet revenue-driving customer preferences.
+- Invest more in retail channel strategies, which show higher spending and responsiveness to delivery efficiency.
 
 ![OverView](assets/Delivery.gif)
 

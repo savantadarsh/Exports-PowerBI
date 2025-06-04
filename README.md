@@ -113,6 +113,8 @@ Product Cost in May (UK): £79.62M
 Profit Margin: 44.44%
 ➤ These numbers suggest that despite high operational costs, pricing is optimised for healthy margins — ideal for further margin scalability through volume.
 
+![OverView](assets/fin_num.gif)
+
 Product Revenue vs Quantity Table
 💡 Margin vs Volume Trade-Off: Shows whether high-volume products are generating enough revenue to justify their scale, enabling correction of financially inefficient product lines.
 
@@ -127,7 +129,7 @@ Polo Shirt: 7.50% quantity, 9.83% revenue
 
 Insight: High-revenue-to-quantity ratios for Jackets and Cardigans suggest premium positioning with strong financial return per unit sold.
 
-
+![OverView](assets/detail_prdts.gif)
 
 ### **C. Regional Performance and Major Clients**
 
@@ -157,6 +159,8 @@ Gender/Nationality: Female, South African
 Implication:
 ➤ Revenue from the UK in May is indirectly driven by international sales agents, supporting remote sales efficiency.
 ➤ Performance attribution to this rep can aid in refining commission/incentive models and improving resource planning for the UK territory.
+
+![OverView](assets/salesperson.gif)
 
 
 ### **D. Sales Channel & Logistics Impact**
@@ -190,6 +194,7 @@ Insight:
 ➤ 65% of revenue flows through air (alone or mixed), indicating high delivery costs tied to speed.
 ➤ Financial opportunity lies in gradually shifting 10–15% to land/sea to optimize cost without compromising service.
 
+![OverView](assets/Delivery.gif)
 
 ### **E. Sustainability Initiative: Delivery Mode Strategy**
 

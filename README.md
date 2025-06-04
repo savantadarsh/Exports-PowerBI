@@ -82,6 +82,8 @@ UK Revenue Share: 23.92% of total revenue in 2024
 
 Implication for Investment: Being the top market, the UK justifies further resource investment (e.g., campaigns or infrastructure) to reinforce and grow revenue.
 
+![OverView](assets/perc_revenue.gif)
+
 
 ### **B. Product Performance: Strengths and Weaknesses**
 

@@ -29,7 +29,7 @@ This Power BI dashboard provides a comprehensive analysis of Infinity Exports' f
 6. Analyse the **Weekly Sales Chart** for planning inventory and campaign timing.
 7. Review **Delivery Mode Distribution** to support logistics cost control and sustainability.
 8. Use **Business Category Segmentation** to tailor pricing and volume strategies.
-9. Hover over charts to get additional information from tooltips. 
+9. Hover over charts to get additional information from **tooltips**. 
 
 ## **2. Dataset and Key Measures Used**
 The dashboard integrates transactional, customer, and logistics data to track performance and drive insights.
@@ -39,6 +39,7 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - **Products**: Includes product pricing, costs, and categories
 - **Customers**: Segments customers by name and business type (Retail, Bulk, Others)
 - **Logistics**: Tracks shipment methods (Air, Land, Sea)
+- **Salespeople:** Contains demographic and background information of individual sales representatives
 
 **Key Measures Used in Power BI**
 - **Percenatage(%) of Total Revenue**: Determines each country’s share of total global revenue
@@ -49,9 +50,10 @@ The dashboard integrates transactional, customer, and logistics data to track pe
 - **Total Profit**: Aggregates total profit across all products and transactions
 - **Total Revenue**: Calculates the gross revenue from all product sales
 - **Week Number**: Extracts the week number from each transaction date for time-series analysis
+- **Revenue Percentage(%) by Country**: Calculates each country's share of global revenue using the ratio of its sales to overall sales.
 
 ## **3. Key Insights and Business Implications**
-This dashboard provides interactive and data-driven insights into Universal Export’s financial performance. By utilizing filters and dynamic visualizations, it allows stakeholders to explore revenue trends, track product performance, compare sales across regions, and evaluate the impact of logistics decisions.
+This dashboard provides interactive and data-driven insights into Infinity Export’s financial performance. By utilising filters and dynamic visualisations, it allows stakeholders to explore revenue trends, track product performance, compare sales across regions, and evaluate the impact of logistics decisions.
 
 The key insights below highlight how users can extract business intelligence from the dashboard and how these findings can drive strategic decisions.
 
@@ -64,23 +66,27 @@ The key insights below highlight how users can extract business intelligence fro
 - Highest weekly revenue reached ~£22M; sharp dip to £3M and £0.16M toward year-end.
 
 **Business Implications**:
-- The year-end drop requires investigation — potentially a data lag, shipping constraints, or seasonal slowdown
-- Strong mid-year performance indicates ideal periods for campaigns and stocking
+- The February decline suggests potential seasonal effects, economic conditions, or operational inefficiencies that need further analysis.
+- The August peak represents a strong sales period—this may indicate a prime time for marketing campaigns and inventory planning.
+- The end-of-year drop could reflect a need for holiday promotions or customer engagement efforts to sustain revenue.
 
 **How the Dashboard Helps**:
 - The **Month Filter** allows users to analyse revenue and profit month by month, helping identify key seasonal patterns.
 - The **Revenue by Week Chart** provides a detailed breakdown of fluctuations, allowing users to compare performance on a granular level.
 - Users can combine filters (e.g., selecting a month + country) to explore regional differences in sales trends.
 
-ToolTip
-**Country-wise % Revenue Contribution**
+To illustrate the usage of tooltips, the United Kingdom is selected in the Country filter, and May is selected in the Month filter. 
+
+ℹ️**ToolTip: Country-wise % Revenue Contribution**
+
 💰 **Revenue Concentration Analysis**: Helps identify over-reliance on specific countries, allowing diversification strategies to reduce financial risk and improve revenue stability.
-
 📈 **Market Investment Prioritisation**: Guides decisions on where to allocate marketing or expansion budgets to maximise returns from high-performing or high-potential regions.
-UK Revenue Share: 23.92% of total revenue in 2024
-➤ With total revenue at £1,040M, the UK contributes approximately £248.8M in revenue.
 
-Implication for Investment: Being the top market, the UK justifies further resource investment (e.g., campaigns or infrastructure) to reinforce and grow revenue.
+**ToolTip Insights**
+- UK Revenue Share: 23.92% of total revenue in 2024
+- With total revenue at £1,040M, the UK contributes approximately £248.8M in revenue.
+
+**Implication for Investment**: Being the top market, the UK justifies further resource investment (e.g., campaigns or infrastructure) to reinforce and grow revenue.
 
 ![OverView](assets/perc_revenue.gif)
 

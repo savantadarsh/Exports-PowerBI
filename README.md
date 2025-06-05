@@ -242,11 +242,8 @@ This dashboard provides a framework for evaluating the feasibility of a sustaina
 ## **6. Conclusion**
 This Power BI dashboard provides critical insight into Infinity Exports’ performance in 2024. It empowers leaders to make data-backed decisions across product strategy, logistics, and customer engagement. With clear visibility into revenue trends and operational levers, the organisation is well-positioned to refine execution and accelerate export growth into 2025.
 
-
-
-
-
-<h2 style="border-bottom: 2px solid #1ABC9C; display: inline-block;">Revenue by Product Category</h2>
+<h2 style="border-bottom: 2px solid #1ABC9C; width: 50%; display: inline-block;">Revenue by Product Category</h2>
+<h2 style="border-bottom: 2px solid #1ABC9C;">Revenue by Product Category</h2>
 
 
 

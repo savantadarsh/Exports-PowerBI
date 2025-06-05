@@ -186,8 +186,9 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - Cost savings from logistics changes should be reinvested in optimising supply chain efficiency.
 
 **How the Dashboard Helps**:
-- _The business category pie chart clarifies where profit optimisation strategies should focus._
-- _Delivery Mode visual guides shipping and sustainability decisions._
+- The Revenue by Business Category Chart enables comparison across retail, bulk, and other distribution channels.
+- The Logistics Type Distribution tracks the impact of reducing air shipments in favour of land/sea alternatives.
+- The Month Filter allows users to analyse the impact of logistics changes over time.
 
 ℹ️**ToolTip: Revenue by Delivery Mode**
 
@@ -238,11 +239,6 @@ This dashboard provides a framework for evaluating the feasibility of a sustaina
 
 ## **6. Conclusion**
 This Power BI dashboard provides critical insight into Infinity Exports’ performance in 2024. It empowers leaders to make data-backed decisions across product strategy, logistics, and customer engagement. With clear visibility into revenue trends and operational levers, the organisation is well-positioned to refine execution and accelerate export growth into 2025.
-
-
-
-
-[here](assets/Output/1b.pdf).
 
 
 

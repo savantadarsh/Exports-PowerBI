@@ -21,13 +21,13 @@ This [Power BI Dashboard](assets/pbixfile/infinityexp2024.pbix) provides a compr
 
    ![OverView](assets/Country.gif)
    |:--:| 
-| *Space* |
+   | *Space* |
 
 3. Use the **Month Filter** to track monthly revenue and profit trends and identify seasonal patterns.
 
    ![OverView](assets/Month.gif)
    |:--:| 
-| *Space* |
+   | *Space* |
 
 5. Explore **Product Category** filters to analyse demand and pricing trends.
    

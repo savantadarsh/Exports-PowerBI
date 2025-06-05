@@ -1,9 +1,9 @@
 # Infinity Exports Performance Summary 2024 - An Exploratory Guide
 
-![OverView](assets/Overview.png)
+![OverView](assets/Overview2.png)
 
 ## **1. Introduction**
-This Power BI dashboard provides a comprehensive analysis of Infinity Exports' financial performance in 2024. Interactive visuals allow stakeholders to explore revenue trends, customer performance, product strengths, delivery strategies, and business categories. It offers a strategic overview of sales activity and profitability for informed decision-making.
+This [<ins>Power BI Dashboard</ins>](assets/pbixfile/infinityexp2024.pbix) provides a comprehensive analysis of Infinity Exports' financial performance in 2024. Interactive visuals allow stakeholders to explore revenue trends, customer performance, product strengths, delivery strategies, and business categories. It offers a strategic overview of sales activity and profitability for informed decision-making.
 
 **Why This Dashboard is Useful**
 - **Revenue and Profit Tracking**: Instant visibility into key metrics such as total revenue (£1.04B), total units sold (62.23M), and average profit margin (44.92%).
@@ -11,7 +11,7 @@ This Power BI dashboard provides a comprehensive analysis of Infinity Exports' f
 - **Product Performance**: Revenue by Product Category highlights top-earning product types and pricing distribution.
 - **Customer Insights**: A breakdown of revenue by Customer Name helps identify major contributors and strategic accounts.
 - **Business Category Breakdown**: Segmentation into Retail, Bulk, and Others reveals revenue share and profitability by sales model.
-- **Delivery Mode Impact**: Delivery Mode chart (Air, Land, Sea) shows revenue distribution across logistics strategies.
+- **Delivery Mode Impact**: The Delivery Mode chart (Air, Land, Sea) shows revenue distribution across logistics strategies.
 
 **How to Use This Dashboard for Decision-Making**
 
@@ -29,12 +29,13 @@ This Power BI dashboard provides a comprehensive analysis of Infinity Exports' f
 6. Analyse the **Weekly Sales Chart** for planning inventory and campaign timing.
 7. Review **Delivery Mode Distribution** to support logistics cost control and sustainability.
 8. Use **Business Category Segmentation** to tailor pricing and volume strategies.
-9. Hover over charts to get additional information from **tooltips**. 
+9. Analyse **Logistics Type distribution** to optimise costs and improve delivery efficiency.
+10. Hover over charts to get additional information from **tooltips**. 
 
 ## **2. Dataset and Key Measures Used**
 The dashboard integrates transactional, customer, and logistics data to track performance and drive insights.
 
-**Datasets Used**
+**[Datasets](assets/dataset) Used**
 - **Transactions**: Contains sales data, revenue, profit, and transaction details
 - **Products**: Includes product pricing, costs, and categories
 - **Customers**: Segments customers by name and business type (Retail, Bulk, Others)
@@ -202,32 +203,38 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 
 ![OverView](assets/Delivery.gif)
 
-### **E. Sustainability Initiative: Delivery Mode Strategy**
+### **E. Sustainability Initiative: Potential Impact of Reducing Air Shipments**
+As part of a potential sustainability initiative, Infinity Export could consider reducing its reliance on air transport to minimise environmental impact and reduce logistics costs. The dashboard allows us to evaluate the financial impact of such a decision by analysing the revenue generated through air shipments.
 
-**Findings**:
-- ~25% of revenue tied to air shipments; most expensive and highest carbon impact
-- Combined air/land/sea mode is the largest contributor (35%)
+**Key Assumptions**
+- If Universal Export were to phase out air shipments entirely, it would impact a significant portion of total revenue.
+- Air shipments account for approximately 30.18% of total logistics, meaning that a land and sea transport transition could require operational adjustments.
+- Revenue dependence on air shipments (~$314M) suggests that certain product categories or customer segments might be affected disproportionately if a logistics shift is implemented.
 
-**Business Implications**:
-- Reducing air dependency can lower costs and support green initiatives
-- Must be balanced with delivery timelines and customer expectations
+**Projected Business Implications**
+- Revenue at Risk: If all air shipments were eliminated, approximately $314M in revenue could be affected, requiring alternative logistics solutions to maintain supply chain efficiency.
+- Delivery Delays: Switching from air to land/sea logistics may increase delivery times, potentially affecting customer satisfaction and order fulfilment speed.
+- Cost Savings: While reducing air shipments could lower logistics costs, it would require an evaluation of whether slower transportation methods impact order volume and repeat purchases.
+- Product & Market Impact: Certain high-demand, time-sensitive products (such as seasonal or promotional items) may need to remain on air transport to avoid stockout risks.
 
-**How the Dashboard Helps**:
-- The Delivery Mode chart enables simulation of the potential impact of shifting the logistics strategy
-- Combined with Country/Product filters, users can identify which markets rely heavily on fast delivery
+**How the Dashboard Helps Analyse This Scenario**
+- The Revenue by Business Category chart allows users to explore how much revenue is currently dependent on air transport.
+- By applying the Product Category filter, users can identify which products would be most impacted by a reduction in air shipments.
+- The Country Filter helps analyse if certain markets rely more heavily on air shipments than others, enabling strategic adjustments in logistics planning.
+
+This dashboard provides a framework for evaluating the feasibility of a sustainability-driven logistics shift, enabling Universal Export to assess potential trade-offs between cost savings, revenue impact, and customer service levels.
 
 ## **4. Final Business Recommendations**
-
-1. **Focus on Premium Products**: Expand high-performing categories like Jackets and Hoodies.
-2. **Reduce Logistics Costs**: Gradually shift air shipment volumes to sea, where feasible
-3. **Diversify Regional Exposure**: Target emerging markets to reduce UK dependency
-4. **Strengthen Mid-Tier Clients**: Offer loyalty incentives to grow £24M–£25M tier accounts
-5. **Phase Out Underperformers**: Reassess Sweatshirt and T-shirt strategies
+- **Phase Out Underperformers**: Reassess marketing, pricing, and design for low-margin products like Sweatshirts and T-Shirts.
+- **Diversify Regional Exposure**: Expand beyond the UK to reduce overdependence on a single market.
+- **Monitor Logistics Impact**: Ensure shifting away from air shipments doesn’t degrade customer experience.
+- **Strengthen Sales Channel Profitability**: Restructure bulk pricing models to boost margin efficiency.
+- **Optimise Underperforming Products**: Streamline offerings and reinvest in higher-performing alternatives.
 
 ## **5. Next Steps**
-- **Predictive Sales Forecasting**: Use Power BI trendline data to estimate 2025 monthly volumes.
-- **Customer Segmentation Deep-Dive**: Use filters to cluster by revenue, retention, and geography
-- **Operational Refinement**: Evaluate warehouse/delivery schedules based on weekly demand swings
+- **Sales Forecasting**: Use predictive analytics to estimate 2025 sales trends.
+- **Customer Segmentation Analysis**: Identify high-value customers and retention strategies.
+- **Supply Chain Optimisation**: Evaluate how alternative shipping methods impact delivery efficiency and revenue
 
 ## **6. Conclusion**
 This Power BI dashboard provides critical insight into Infinity Exports’ performance in 2024. It empowers leaders to make data-backed decisions across product strategy, logistics, and customer engagement. With clear visibility into revenue trends and operational levers, the organisation is well-positioned to refine execution and accelerate export growth into 2025.

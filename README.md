@@ -80,15 +80,13 @@ The key insights below highlight how users can extract business intelligence fro
 **How the Dashboard Helps**:
 - The **Month Filter** allows users to analyse revenue and profit month by month, helping identify key seasonal patterns.
 - The **Revenue by Week Chart** provides a detailed breakdown of fluctuations, allowing users to compare performance on a granular level.
-- Users can combine filters (e.g., selecting a month + country) to explore regional differences in sales trends.
+- Users can combine filters (e.g., selecting a **month** and **country**) to explore regional differences in sales trends.
 
 To illustrate the usage of tooltips, the United Kingdom is selected in the Country filter, and May is selected in the Month filter. 
 
 ℹ️**ToolTip: Country-wise % Revenue Contribution**
-
-💰 **Revenue Concentration Analysis**: Helps identify over-reliance on specific countries, allowing diversification strategies to reduce financial risk and improve revenue stability.
-
-📈 **Market Investment Prioritisation**: Guides decisions on where to allocate marketing or expansion budgets to maximise returns from high-performing or high-potential regions.
+- **Revenue Concentration Analysis**: Helps identify over-reliance on specific countries, allowing diversification strategies to reduce financial risk and improve revenue stability.
+- **Market Investment Prioritisation**: Guides decisions on where to allocate marketing or expansion budgets to maximise returns from high-performing or high-potential regions.
 
 **ToolTip Insights**
 - UK Revenue Share: 23.92% of total revenue in 2024
@@ -115,13 +113,11 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 **How the Dashboard Helps**:
 - The **Revenue by Product Category Chart** clearly distinguishes top-performing and underperforming products.
 - By using the **Country Filter**, users can analyse how different product categories perform across regions.
-- Combining **Month + Product Category** filters helps assess seasonality in product sales.
+- Combining **Month** and **Product Category** filters helps assess seasonality in product sales.
 
 ℹ️**ToolTip: Product-Level Financial Summary**
-
-📊 **Profitability Assessment**: Showing product-wise profit and cost helps finance teams evaluate which products are most financially viable or eroding margins.
-
-⚖️ **Pricing and Cost Optimisation**: Enables informed decisions around pricing strategy or cost control initiatives to improve profit margins per product.
+- **Profitability Assessment**: Showing product-wise profit and cost helps finance teams evaluate which products are most financially viable or eroding margins.
+- **Pricing and Cost Optimisation**: Enables informed decisions around pricing strategy or cost control initiatives to improve profit margins per product.
 
 **ToolTip Insights**
 - Jackets and Hoodies contribute significantly to both top-line revenue and bottom-line profit. Jackets, despite lower volume, deliver exceptional returns due to premium pricing. Hoodies provide balanced volume and profitability.
@@ -136,10 +132,8 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 | *ToolTip: Key Financial Metrics for different Products* |
 
 ℹ️**ToolTip: Product Revenue vs Quantity Table**
-
-💡 Margin vs Volume Trade-Off: Shows whether high-volume products are generating enough revenue to justify their scale, enabling correction of financially inefficient product lines.
-
-📦 Revenue Contribution Clarity: This section highlights which products are driving disproportionate revenue, supporting the reallocation of resources to high-yield items.
+- Margin vs Volume Trade-Off: Shows whether high-volume products are generating enough revenue to justify their scale, enabling correction of financially inefficient product lines.
+- Revenue Contribution Clarity: This section highlights which products are driving disproportionate revenue, supporting the reallocation of resources to high-yield items.
 
 **ToolTip Insights**
 
@@ -166,13 +160,11 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 **How the Dashboard Helps**:
 - The **Revenue by Customer Chart** helps identify high-value clients.
 - The **Country Filter** allows users to compare revenue distribution by region.
-- The combination of **Month + Country** filters provides insights into seasonal variations in regional sales.
+- The combination of **Month** and **Country** filters provides insights into seasonal variations in regional sales.
 
 ℹ️**ToolTip: Salesperson Profile**
-
-🎯 Attribution of Sales Revenue: Helps attribute revenue outcomes to specific individuals or teams, which supports performance-based incentives and territory ROI analysis.
-
-🧭 Territory Profitability Mapping: Enables finance and sales leaders to track which territories or reps contribute most to financial goals, guiding hiring or training investments.
+- Attribution of Sales Revenue: Helps attribute revenue outcomes to specific individuals or teams, which supports performance-based incentives and territory ROI analysis.
+- Territory Profitability Mapping: Enables finance and sales leaders to track which territories or reps contribute most to financial goals, guiding hiring or training investments.
 
 
 **ToolTip Insights**
@@ -200,9 +192,9 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - Cost savings from logistics changes should be reinvested in optimising supply chain efficiency.
 
 **How the Dashboard Helps**:
-- The Revenue by Business Category Chart enables comparison across retail, bulk, and other distribution channels.
-- The Logistics Type Distribution tracks the impact of reducing air shipments in favour of land/sea alternatives.
-- The Month Filter allows users to analyse the impact of logistics changes over time.
+- The **Revenue by Business Category** Chart enables comparison across retail, bulk, and other distribution channels.
+- The **Logistics Type Distribution** tracks the impact of reducing air shipments in favour of land/sea alternatives.
+- The **Month Filter** allows users to analyse the impact of logistics changes over time.
 
 ℹ️**ToolTip: Revenue by Delivery Mode**
 
@@ -235,9 +227,9 @@ As part of a potential sustainability initiative, Infinity Export could consider
 - Product & Market Impact: Certain high-demand, time-sensitive products (such as seasonal or promotional items) may need to remain on air transport to avoid stockout risks.
 
 **How the Dashboard Helps Analyse This Scenario**
-- The Revenue by Business Category chart allows users to explore how much revenue is currently dependent on air transport.
-- By applying the Product Category filter, users can identify which products would be most impacted by a reduction in air shipments.
-- The Country Filter helps analyse if certain markets rely more heavily on air shipments than others, enabling strategic adjustments in logistics planning.
+- The **Revenue by Business Category** chart allows users to explore how much revenue is currently dependent on air transport.
+- By applying the **Logistics Type Distribution** filter, users can identify which products would be most impacted by a reduction in air shipments.
+- The **Country Filter** helps analyse if certain markets rely more heavily on air shipments than others, enabling strategic adjustments in logistics planning.
 
 This dashboard provides a framework for evaluating the feasibility of a sustainability-driven logistics shift, enabling Universal Export to assess potential trade-offs between cost savings, revenue impact, and customer service levels.
 

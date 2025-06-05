@@ -133,7 +133,7 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 
 ![OverView](assets/fin_num.gif)
 |:--:| 
-| *Space* |
+| *ToolTip: Key Financial Metrics for different Products* |
 
 ℹ️**ToolTip: Product Revenue vs Quantity Table**
 
@@ -149,7 +149,7 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 
 ![OverView](assets/detail_prdts.gif)
 |:--:| 
-| *Space* |
+| *ToolTip: Product Performance* |
 
 ### **C. Regional Performance and Major Clients**
 
@@ -185,7 +185,7 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 
 ![OverView](assets/salespersons.gif)
 |:--:| 
-| *Space* |
+| *ToolTip: Customer Address and Salesperson details* |
 
 
 ### **D. Sales Channel & Logistics Impact**
@@ -218,7 +218,7 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 
 ![OverView](assets/Delivery.gif)
 |:--:| 
-| *Space* |
+| *ToolTip: Delivery Mode details* |
 
 ### **E. Sustainability Initiative: Potential Impact of Reducing Air Shipments**
 As part of a potential sustainability initiative, Infinity Export could consider reducing its reliance on air transport to minimise environmental impact and reduce logistics costs. The dashboard allows us to evaluate the financial impact of such a decision by analysing the revenue generated through air shipments.

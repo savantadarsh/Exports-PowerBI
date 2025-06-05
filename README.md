@@ -2,7 +2,7 @@
 
 ![OverView](assets/Overview3.png)
 |:--:| 
-| *Space* |
+| *Dashboard Overview* |
 
 ## **1. Introduction**
 This [Power BI Dashboard](assets/pbixfile/infinityexp2024.pbix) provides a comprehensive analysis of Infinity Exports' financial performance in 2024. Interactive visuals allow stakeholders to explore revenue trends, customer performance, product strengths, delivery strategies, and business categories. It offers a strategic overview of sales activity and profitability for informed decision-making.
@@ -21,13 +21,13 @@ This [Power BI Dashboard](assets/pbixfile/infinityexp2024.pbix) provides a compr
 
    ![OverView](assets/Country.gif)
    |:--:| 
-   | *Space* |
+   | *Country Filter* |
 
 3. Use the **Month Filter** to track monthly revenue and profit trends and identify seasonal patterns.
 
    ![OverView](assets/Month.gif)
    |:--:| 
-   | *Space* |
+   | *Month Filter* |
 
 5. Explore **Product Category** filters to analyse demand and pricing trends.
    
@@ -98,7 +98,7 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 
 ![OverView](assets/perc_revenue.gif)
 |:--:| 
-| *Space* |
+| *ToolTip: Revenue Percentage(%) by Country* |
 
 
 ### **B. Product Performance: Strengths and Weaknesses**

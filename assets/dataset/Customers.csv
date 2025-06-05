@@ -1,0 +1,49 @@
+customer_ID,customer_name,customer_address,customer_since_year,business_category,salespeople_unique_identification,contact_email,newin2023
+1,GKAS,"Leeds, UK",2002,Retail,11,contact@GKAS.co.uk,FALSE
+2,Devil's Fashion,"Zagreb, Croatia",2002,Bulk,15,fashion@df.com,FALSE
+3,Zweihan Corp,"Dortmund, Germany",2002,Others,16,purchase@zweihan.de,FALSE
+4,BH Vision,"Bratislava, Hungary",2002,Bulk,8,fashionpurchase@bhvision.com,FALSE
+5,Norfolk Garment,"Norwich, UK",2002,Bulk,17,purchase@norfolkgarment.net,FALSE
+6,General Clothes,"Bristol, UK",2002,Bulk,21,acquisition@gc.co.uk,FALSE
+7,Welsh Wife,"Cardiff, UK",2006,Others,18,ww@gmail.com,FALSE
+8,Gemma Runway,"Lancaster, UK",2006,Retail,12,purchase@gmr.co.uk,FALSE
+9,SWD,"Stockholm, Sweden",2006,Others,11,jenna@SWD.com,FALSE
+10,London Creative,"London, UK",2007,Bulk,22,LC@hotmail.com,FALSE
+11,HSKFashion,"Helsinki, Finland",2008,Bulk,4,contact@HSK.co.uk,FALSE
+12,LOTI Garment,"Dublin, Ireland",2009,Retail,11,garment@loti.com,FALSE
+13,ATT Store.com,"Amsterdam, Netherlands",2009,Bulk,12,purchase@attstore.com,FALSE
+14,Scot Score,"Glasgow, UK",2009,Retail,22,score@scot.com,FALSE
+15,Panowikk ,"Narvik, Norway",2010,Bulk,9,garment@panowikk.com,FALSE
+16,FMBA,"Madrid, Spain",2010,Retail,19,madridoffice@fmba.net,FALSE
+17,Admirality Uniform,"Rotterdam, Netherlands",2010,Others,6,uniform@admirality.com,FALSE
+18,Central Group,"Berlin, Germany",2012,Retail,7,purchase@central.com,FALSE
+19,Cotes,"Paris, France",2012,Retail,6,garment@cotes.co.fr,FALSE
+20,Giant J,"Paris, France",2013,Retail,3,anna@giantj.com,FALSE
+21,Irish Airways,"Dublin, Ireland",2013,Bulk,9,uniform@irishair.com,FALSE
+22,VIV,"Brussel, Belgium",2014,Bulk,22,fashion@viv.com,FALSE
+23,Alexander De Coco,"Bruge, Belgium",2015,Bulk,20,contact@alexandercoco.com,FALSE
+24,Wilhelm Fashion,"Dresden, Germany",2015,Bulk,12,fashion@wilhelm.com,FALSE
+25,Wanda Fashion,"Dublin, Ireland",2015,Retail,17,purchase@wandafashion.com,FALSE
+26,Lombardica,"Milan, Italy",2015,Retail,7,fashion@lombardica.com,FALSE
+27,Felipe,"Barcelona, Spain",2015,Retail,19,garment@felipe.net,FALSE
+28,EEC Garment,"Barcelona, Spain",2015,Bulk,20,garment@eecgarment.com,FALSE
+29,Andulus,"Madrid, Spain",2015,Bulk,3,team@andulus.com,FALSE
+30,KOV Corporation,"Budapest, Hungary",2016,Bulk,22,purchase@kov.co.hu,FALSE
+31,Angus,"Edinburgh, UK",2017,Others,8,angus@angus.uk,FALSE
+32,Sound of the Mountain,"Vienna, Austria",2018,Bulk,7,teampurchase@som.com,FALSE
+33,Hellenic Haven,"Athens, Greece",2019,Retail,18,fashion@hhellenic.com,FALSE
+34,Ausra's Design,"Vilnius, Lithuania",2019,Retail,20,design@ausradesign.co.lt,FALSE
+35,RLSV,"Riga, Latvia",2019,Retail,22,rlsv@rlsv.com,FALSE
+36,Skip,"Talinn, Estonia",2019,Retail,21,fashionestonia@skip.com,FALSE
+37,CSF,"Prague, Czech Republic",2019,Bulk,21,fashionteam@csf.com,FALSE
+38,Lisbon Bus,"Lisbon, Portugal",2020,Others,24,hr@lisbonbus.com,FALSE
+39,Fleur Fashion,"Marseille, France",2020,Retail,4,purchase@fleurfashion.com,FALSE
+40,Henrik,"Warsaw, Poland",2021,Others,15,acquisition@henrik.com,FALSE
+41,Evo,"Rome, Italy",2021,Retail,24,teamcontactpurchase@evo.com,FALSE
+42,Colonel Sucharski,"Krakow, Poland",2021,Others,16,contact@colonelsucharski.com,FALSE
+43,TOL Uniform,"London, UK",2022,Others,8,uniform@tol.com,FALSE
+44,Kingsman Tailor,"London, UK",2022,Retail,5,contact@kingsman.com,FALSE
+45,Charis Vision,"Cyprus, Nicosia",2023,Bulk,22,fashion@charisvision.com,TRUE
+46,NBF,"France, Calais",2023,Others,5,hr@nbf.com,TRUE
+47,Liberte,"France, Paris",2023,Retail,12,fashion@liberte.com,TRUE
+48,Kuba,"Poland, Warsaw",2023,Retail,4,team@kuba.com,TRUE

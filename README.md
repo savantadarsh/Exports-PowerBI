@@ -36,11 +36,11 @@ This [Power BI Dashboard](assets/pbixfile/infinityexp2024.pbix) provides a compr
 The dashboard integrates transactional, customer, and logistics data to track performance and drive insights.
 
 **[Datasets](assets/dataset) Used**
-- **Transactions**: Contains sales data, revenue, profit, and transaction details
-- **Products**: Includes product pricing, costs, and categories
-- **Customers**: Segments customers by name and business type (Retail, Bulk, Others)
-- **Logistics**: Tracks shipment methods (Air, Land, Sea)
-- **Salespeople:** Contains demographic and background information of individual sales representatives
+- **[Transactions](assets/dataset/Transactions.csv)**: Contains sales data, revenue, profit, and transaction details
+- **[Products](assets/dataset/Products.csv)**: Includes product pricing, costs, and categories
+- **[Customers](assets/dataset/Customers.csv)**: Segments customers by name and business type (Retail, Bulk, Others)
+- **[Logistics](assets/dataset/Logistics.txt)**: Tracks shipment methods (Air, Land, Sea)
+- **[Salespeople](assets/dataset/Salespeople.json):** Contains demographic and background information of individual sales representatives
 
 **Key Measures Used in Power BI**
 - **Percenatage(%) of Total Revenue**: Determines each country’s share of total global revenue

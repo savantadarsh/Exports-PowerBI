@@ -89,8 +89,8 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - **Market Investment Prioritisation**: Guides decisions on where to allocate marketing or expansion budgets to maximise returns from high-performing or high-potential regions.
 
 **ToolTip Insights**
-- UK Revenue Share: 23.92% of total revenue in 2024
-- With total revenue at £1,040M, the UK contributes approximately £248.8M in revenue.
+- UK Revenue Share: **23.92%** of total revenue in 2024
+- With total revenue at £1,040M, the UK contributes approximately **£248.8M** in revenue.
 
 **Implication for Investment**: Being the top market, the UK justifies further resource investment (e.g., campaigns or infrastructure) to reinforce and grow revenue.
 
@@ -102,8 +102,8 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 ### **B. Product Performance: Strengths and Weaknesses**
 
 **Findings**:
-- Top categories by revenue: Jacket (£225.4M), Cardigan (£155.2M), Hoodie (£143.3M)
-- Lower performers: Sweatshirt (£52.2M) and T-Shirt (£48.1M)
+- **Top categories by revenue**: Jacket (£225.4M), Cardigan (£155.2M), Hoodie (£143.3M)
+- **Lower performers**: Sweatshirt (£52.2M) and T-Shirt (£48.1M)
 - Price points vary from £6 to £40 per unit
 
 **Business Implications**:
@@ -136,7 +136,6 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - Revenue Contribution Clarity: This section highlights which products are driving disproportionate revenue, supporting the reallocation of resources to high-yield items.
 
 **ToolTip Insights**
-
 - Jacket (£40) consistently leads in revenue, making it a high-value product worth sustained promotion.
 - T-Shirts (£6) and PoloShirts (£15) lead in quantity sold, indicating mass appeal and potential for bundle deals or upselling.
 - Hoodies maintain a stable presence in both volume and revenue, signalling a dependable mid-tier option.
@@ -166,7 +165,6 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - Attribution of Sales Revenue: Helps attribute revenue outcomes to specific individuals or teams, which supports performance-based incentives and territory ROI analysis.
 - Territory Profitability Mapping: Enables finance and sales leaders to track which territories or reps contribute most to financial goals, guiding hiring or training investments.
 
-
 **ToolTip Insights**
 - International sales reps are successfully building relationships and closing high-value deals in the UK. This suggests that cultural or regional background is not a barrier to high-touch B2B apparel selling.
 - Salespeople with multiple UK client accounts generate higher cumulative revenue. This points to strong relationship management, possibly built on trust, retention, or deep industry knowledge.
@@ -183,8 +181,8 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 ### **D. Sales Channel & Logistics Impact**
 
 **Findings**:
-- Revenue by business category: Bulk (41.6%), Others (36.5%), Retail (21.9%).
-- Delivery Mode split: Air, Land, Sea (35%), Land (30%), Air (25%), Sea (10%).
+- **Revenue by business category**: Bulk (41.6%), Others (36.5%), Retail (21.9%).
+- **Delivery Mode split**: Air, Land, Sea (35%), Land (30%), Air (25%), Sea (10%).
 
 **Business Implications**:
 - Bulk sales profitability may require pricing adjustments to increase revenue from high-volume customers.
@@ -197,8 +195,7 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - The **Month Filter** allows users to analyse the impact of logistics changes over time.
 
 ℹ️**ToolTip: Revenue by Delivery Mode**
-
-🚚 Cost-Efficiency Insights: Allows evaluation of how logistics methods align with revenue, identifying opportunities to shift toward more cost-effective delivery modes.
+- Cost-Efficiency Insights: Allows evaluation of how logistics methods align with revenue, identifying opportunities to shift toward more cost-effective delivery modes.
 
 **ToolTip Insights**
 - Customers prefer flexible or fast shipping solutions, with multi-mode logistics being the most effective in driving revenue.
@@ -217,11 +214,11 @@ As part of a potential sustainability initiative, Infinity Export could consider
 
 **Key Assumptions**
 - If Universal Export were to phase out air shipments entirely, it would impact a significant portion of total revenue.
-- Air shipments account for approximately 30.18% of total logistics, meaning that a land and sea transport transition could require operational adjustments.
+- Air shipments account for approximately **30.18%** of total logistics, meaning that a land and sea transport transition could require operational adjustments.
 - Revenue dependence on air shipments (~$314M) suggests that certain product categories or customer segments might be affected disproportionately if a logistics shift is implemented.
 
 **Projected Business Implications**
-- Revenue at Risk: If all air shipments were eliminated, approximately $314M in revenue could be affected, requiring alternative logistics solutions to maintain supply chain efficiency.
+- Revenue at Risk: If all air shipments were eliminated, approximately **$314M** in revenue could be affected, requiring alternative logistics solutions to maintain supply chain efficiency.
 - Delivery Delays: Switching from air to land/sea logistics may increase delivery times, potentially affecting customer satisfaction and order fulfilment speed.
 - Cost Savings: While reducing air shipments could lower logistics costs, it would require an evaluation of whether slower transportation methods impact order volume and repeat purchases.
 - Product & Market Impact: Certain high-demand, time-sensitive products (such as seasonal or promotional items) may need to remain on air transport to avoid stockout risks.

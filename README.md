@@ -3,7 +3,7 @@
 ![OverView](assets/Overview2.png)
 
 ## **1. Introduction**
-This [<ins>Power BI Dashboard</ins>](assets/pbixfile/infinityexp2024.pbix) provides a comprehensive analysis of Infinity Exports' financial performance in 2024. Interactive visuals allow stakeholders to explore revenue trends, customer performance, product strengths, delivery strategies, and business categories. It offers a strategic overview of sales activity and profitability for informed decision-making.
+This [Power BI Dashboard](assets/pbixfile/infinityexp2024.pbix) provides a comprehensive analysis of Infinity Exports' financial performance in 2024. Interactive visuals allow stakeholders to explore revenue trends, customer performance, product strengths, delivery strategies, and business categories. It offers a strategic overview of sales activity and profitability for informed decision-making.
 
 **Why This Dashboard is Useful**
 - **Revenue and Profit Tracking**: Instant visibility into key metrics such as total revenue (£1.04B), total units sold (62.23M), and average profit margin (44.92%).

@@ -91,6 +91,8 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 **Implication for Investment**: Being the top market, the UK justifies further resource investment (e.g., campaigns or infrastructure) to reinforce and grow revenue.
 
 ![OverView](assets/perc_revenue.gif)
+|:--:| 
+| *Space* |
 
 
 ### **B. Product Performance: Strengths and Weaknesses**

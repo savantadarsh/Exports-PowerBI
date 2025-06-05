@@ -79,6 +79,7 @@ The key insights below highlight how users can extract business intelligence fro
 To illustrate the usage of tooltips, the United Kingdom is selected in the Country filter, and May is selected in the Month filter. 
 
 ℹ️**ToolTip: Country-wise % Revenue Contribution**
+|:--:| 
 
 💰 **Revenue Concentration Analysis**: Helps identify over-reliance on specific countries, allowing diversification strategies to reduce financial risk and improve revenue stability.
 

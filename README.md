@@ -1,6 +1,8 @@
 # Infinity Exports Performance Summary 2024 - An Exploratory Guide
 
 ![OverView](assets/Overview3.png)
+|:--:| 
+| *Space* |
 
 ## **1. Introduction**
 This [Power BI Dashboard](assets/pbixfile/infinityexp2024.pbix) provides a comprehensive analysis of Infinity Exports' financial performance in 2024. Interactive visuals allow stakeholders to explore revenue trends, customer performance, product strengths, delivery strategies, and business categories. It offers a strategic overview of sales activity and profitability for informed decision-making.
@@ -14,23 +16,27 @@ This [Power BI Dashboard](assets/pbixfile/infinityexp2024.pbix) provides a compr
 - **Delivery Mode Impact**: The Delivery Mode chart (Air, Land, Sea) shows revenue distribution across logistics strategies.
 
 **How to Use This Dashboard for Decision-Making**
-| *Space* |
+
 1. Use the **Country Filter** to evaluate market performance across geographies.
 
    ![OverView](assets/Country.gif)
+   |:--:| 
+| *Space* |
 
-2. Use the **Month Filter** to track monthly revenue and profit trends and identify seasonal patterns.
+3. Use the **Month Filter** to track monthly revenue and profit trends and identify seasonal patterns.
 
    ![OverView](assets/Month.gif)
+   |:--:| 
+| *Space* |
 
-4. Explore **Product Category** filters to analyse demand and pricing trends.
+5. Explore **Product Category** filters to analyse demand and pricing trends.
    
-5. Leverage **Customer View** to assess top-performing clients for retention and upsell strategies.
-6. Analyse the **Weekly Sales Chart** for planning inventory and campaign timing.
-7. Review **Delivery Mode Distribution** to support logistics cost control and sustainability.
-8. Use **Business Category Segmentation** to tailor pricing and volume strategies.
-9. Analyse **Logistics Type distribution** to optimise costs and improve delivery efficiency.
-10. Hover over charts to get additional information from **tooltips**. 
+6. Leverage **Customer View** to assess top-performing clients for retention and upsell strategies.
+7. Analyse the **Weekly Sales Chart** for planning inventory and campaign timing.
+8. Review **Delivery Mode Distribution** to support logistics cost control and sustainability.
+9. Use **Business Category Segmentation** to tailor pricing and volume strategies.
+10. Analyse **Logistics Type distribution** to optimise costs and improve delivery efficiency.
+11. Hover over charts to get additional information from **tooltips**. 
 
 ## **2. Dataset and Key Measures Used**
 The dashboard integrates transactional, customer, and logistics data to track performance and drive insights.
@@ -126,6 +132,8 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - Use T-Shirts and Sweatshirts as entry-level or promotional products to boost volume and attract new customers, but do not rely on them for driving profits. Consider bundling them with higher-margin items.
 
 ![OverView](assets/fin_num.gif)
+|:--:| 
+| *Space* |
 
 ℹ️**ToolTip: Product Revenue vs Quantity Table**
 
@@ -140,6 +148,8 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - Hoodies maintain a stable presence in both volume and revenue, signalling a dependable mid-tier option.
 
 ![OverView](assets/detail_prdts.gif)
+|:--:| 
+| *Space* |
 
 ### **C. Regional Performance and Major Clients**
 
@@ -174,6 +184,8 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - Nurture and reward multi-client management to build stronger, revenue-rich customer relationships.
 
 ![OverView](assets/salespersons.gif)
+|:--:| 
+| *Space* |
 
 
 ### **D. Sales Channel & Logistics Impact**
@@ -205,6 +217,8 @@ To illustrate the usage of tooltips, the United Kingdom is selected in the Count
 - Invest more in retail channel strategies, which show higher spending and responsiveness to delivery efficiency.
 
 ![OverView](assets/Delivery.gif)
+|:--:| 
+| *Space* |
 
 ### **E. Sustainability Initiative: Potential Impact of Reducing Air Shipments**
 As part of a potential sustainability initiative, Infinity Export could consider reducing its reliance on air transport to minimise environmental impact and reduce logistics costs. The dashboard allows us to evaluate the financial impact of such a decision by analysing the revenue generated through air shipments.
